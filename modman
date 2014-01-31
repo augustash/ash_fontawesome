@@ -1,0 +1,8 @@
+# Ash_Fontawesome Mappings
+
+Ash_Fontawesome.xml   app/etc/modules/Ash_Fontawesome.xml
+code                  app/code/local/Ash/Fontawesome
+locale/*              app/locale/en_US/
+adminhtml/layout/*    app/design/adminhtml/default/default/layout/
+frontend/layout/*     app/design/frontend/base/default/layout/
+skin                  skin/frontend/base/default/ash_fontawesome
