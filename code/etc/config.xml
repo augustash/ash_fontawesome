@@ -12,7 +12,7 @@
 <config>
     <modules>
         <Ash_Fontawesome>
-             <version>1.0.0</version>
+             <version>1.0.1</version>
              <ashup
                 remote="https://s3.amazonaws.com/augustash/mage/Ash_Fontawesome-latest.zip" />
         </Ash_Fontawesome>
@@ -54,7 +54,7 @@
         <layout>
             <updates>
                 <ash_fontawesome>
-                    <file>Ash_Fontawesome.xml</file>
+                    <file>ash_fontawesome.xml</file>
                 </ash_fontawesome>
             </updates>
         </layout>
