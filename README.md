@@ -1,8 +1,3 @@
-Title:  Ash_Fontawesome Extension
-Author: Peter McWilliams  
-Email:  core@augustash.com  
-Date:   Jan 31, 2014  
-
 # Description
 
 This extension adds Font Awesome icon library.
@@ -14,5 +9,5 @@ Installation
 2. Delete all contents of the Magento cache
 
 ```
-@copyright  Copyright (c) 2014 August Ash, Inc. (http://www.augustash.com)
+@copyright  Copyright (c) 2015 August Ash, Inc. (http://www.augustash.com)
 ```

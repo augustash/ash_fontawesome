@@ -4,7 +4,7 @@
  *
  * @category    Ash
  * @package     Ash_Fontawesome
- * @copyright   Copyright (c) 2014 August Ash, Inc. (http://www.augustash.com)
+ * @copyright   Copyright (c) 2015 August Ash, Inc. (http://www.augustash.com)
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
@@ -26,7 +26,7 @@ class Ash_Fontawesome_Model_System_Config_Source_Version_Fontawesome
     {
         $this->_options = array(
             array('value' => '', 'label' => Mage::helper('adminhtml')->__('-- Please Select --')),
-            array('value' => '4.0.3', 'label' => '4.0.3'),
+            array('value' => '4.3.0', 'label' => '4.3.0'),
             array('value' => '3.2.1', 'label' => '3.2.1'),
         );
 
