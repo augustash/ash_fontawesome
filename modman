@@ -1,8 +1,6 @@
-# Ash_Fontawesome Mappings
-
-Ash_Fontawesome.xml   app/etc/modules/Ash_Fontawesome.xml
-code                  app/code/community/Ash/Fontawesome
-locale/*              app/locale/en_US/
-adminhtml/layout/*    app/design/adminhtml/default/default/layout/
-frontend/layout/*     app/design/frontend/base/default/layout/
-skin                  skin/frontend/base/default/ash_fontawesome
+app/etc/modules/Ash_Fontawesome.xml             app/etc/modules/Ash_Fontawesome.xml
+app/code/community/Ash/Fontawesome/             app/code/community/Ash/Fontawesome/
+app/locale/en_US/*                              app/locale/en_US/
+app/design/adminhtml/default/default/layout/*   app/design/adminhtml/default/default/layout/
+app/design/frontend/base/default/layout/*       app/design/frontend/base/default/layout/
+skin/frontend/base/default/ash_fontawesome/     skin/frontend/base/default/ash_fontawesome/
