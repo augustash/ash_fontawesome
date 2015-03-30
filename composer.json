@@ -1,0 +1,17 @@
+{
+    "name": "augustash/ash_fontawesome",
+    "description": "Font Awesome icon support",
+    "homepage": "https://github.com/augustash/ash_fontawesome.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pete McWilliams",
+            "email": "pmcwilliams@augustash.com"
+        }
+    ],
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "augustash/ash_core": "*"
+    }
+}

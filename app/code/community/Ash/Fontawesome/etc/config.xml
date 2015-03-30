@@ -12,9 +12,7 @@
 <config>
     <modules>
         <Ash_Fontawesome>
-             <version>1.1.0</version>
-             <ashup
-                remote="https://s3.amazonaws.com/augustash/mage/Ash_Fontawesome-latest.zip" />
+             <version>1.2.0</version>
         </Ash_Fontawesome>
     </modules>
 
